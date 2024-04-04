@@ -58,7 +58,7 @@ void LinearSearch() {
 }
 
 void display() {
-    
+    cout << "Array elements are: ";
 }
 
 int main()
